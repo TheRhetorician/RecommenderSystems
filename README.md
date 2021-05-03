@@ -9,7 +9,7 @@ This directory contains code for implementation of Collaborative filtering, SVD,
 The complement code is implemented in Python and requires python3 for execution
 Group members are :\
 Mudit Chaturvedi : 2018A7PS0248H\
-Tanay Gupta : 2018AAPS0343H  https://github.com/Tanay0101\
+Tanay Gupta : 2018AAPS0343H  https://github.com/Tanay0101 \
 Sristi Sharma : 2018A7PS0299H  https://github.com/judyhopps24
  
 ## Packages Used
