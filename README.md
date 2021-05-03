@@ -8,9 +8,9 @@
 This directory contains code for implementation of Collaborative filtering, SVD, CUR.
 The complement code is implemented in Python and requires python3 for execution
 Group members are :\
-Tanay Gupta : 2018AAPS0343H\
 Mudit Chaturvedi : 2018A7PS0248H\
-Sristi Sharma : 2018A7PS0299H
+Tanay Gupta : 2018AAPS0343H  https://github.com/Tanay0101\
+Sristi Sharma : 2018A7PS0299H  https://github.com/judyhopps24
  
 ## Packages Used
 The packages used in the execution of the program are:
